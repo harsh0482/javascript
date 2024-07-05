@@ -1,0 +1,18 @@
+String method
+=============
+1. length()
+2. toUpperCase()
+3. toLowerCase()
+4. indexOf()
+5. indexOfLast
+6. replace()
+7. replaceAll()
+8. trim()
+9. trimStart()
+10. trimEnd()
+11. template()
+12. concat()
+13. padStart()
+14. padEnd()
+15. repeat()
+ 
