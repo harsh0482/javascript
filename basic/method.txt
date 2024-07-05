@@ -16,3 +16,13 @@ String method
 14. padEnd()
 15. repeat()
  
+Math method
+===========
+1. Math.abs()
+2. Math.round()
+3. Math.ceil()
+4. Math.floor()
+5. Math.min()
+6. Math.max()
+7. Math.sqrt()
+8. Math.pow()
