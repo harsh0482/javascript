@@ -17,3 +17,13 @@ for(let i=0;i<price.length;i++){
     price[i] = price[i] - offer;
 }
 console.log(price);
+
+
+// third practice
+const compaines=["bloomberg","microsoft","uber","google","ibm","netflix"]
+console.log(compaines.shift());
+console.log(compaines);
+console.log(compaines.splice(2,1,"Ola"));
+console.log(compaines)
+console.log(compaines.push("amezone"))
+console.log(compaines)
