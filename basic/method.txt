@@ -33,5 +33,8 @@ Array method
 2.pop()  :- remove to end
 3.toString :- convert array to String
 4.concat :- joint multiple array
-5.unShift :- add to start
-6.shift :- delete form start
+5.unShift :- add to start (push)
+6.shift :- delete form start (pop)
+7.slice :- returns a piece of the array 
+           syntax : (startindex,endindex)
+8.splice :- change the original array (add,remove,replace)           
